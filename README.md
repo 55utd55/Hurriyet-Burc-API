@@ -1,2 +1,3 @@
-# H-rriyet-Bur-API
-Huürriyet Gazetesi'nin Günlük Çıkan Burç Yorum API
+## Hürriyet Burç API
+[http://mahmure.hurriyet.com.tr/astroloji/burclar/](http://mahmure.hurriyet.com.tr/astroloji/burclar/) Sayfasına günlük olarak çıkan burç yorumları API'si.
+
